@@ -1,0 +1,19 @@
+components
+        header
+        sidenav
+        main content
+        footer
+
+components are reusable
+
+javascript file --> component code
+App.js --> appcomponent
+
+
+component types:
+1 stateless functional component:
+            javascript functions
+
+2 stateful class component:
+            class extending component class
+                render method returning HTML

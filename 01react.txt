@@ -1,0 +1,33 @@
+what is react:
+            react is an open source javascript library for building interfaces
+            it's not a frame work
+            it focus on UI
+
+why react:
+        created and maintained by facebook
+        huge community
+        highly demanded
+        --component based architecture
+        --reusable code
+        --declarative (tell react what u want and react will build the actual UI)
+
+prerequistes
+        HTML, CSS anf javascript fundamentals
+        ES6
+        javascript --> 'this' keyword, filter, map and reduce
+        ES6 - let & const , arrow functions, template literals,default paramenters, object literals, rest and spread operators anf destructuring assaignment
+
+commands to create the react app
+
+method - 1
+        npx create-react-app hello_world
+        cd hello_world
+        npm start
+
+method - 2
+        npm install create-react-app -g
+        create-react-app hello_world
+
+how to run reactjs:
+        sudo apt install npm -y
+        npm start
